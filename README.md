@@ -13,7 +13,7 @@ Inhalt des Repositories
 -Werner-Christoph_42307731_DLBDSPBDM01_D_Abschlussphase_BE.pdf: Beschreibt die Funktionalität der Datenbank, die Anzahl der Tabellen und Einträge sowie die Größe der Datenbank.
 -Werner-Christoph_42307731_DLBDSPBDM01_D_Installationsanleitung.pdf: Eine detaillierte Anleitung zur Installation und Einrichtung der Datenbank.
 
--README.txt: Diese Datei.
+
 
 Funktionalität
 Die Buchtausch-App-Datenbank bietet folgende Hauptfunktionen:
